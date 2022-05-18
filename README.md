@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Shweta2024 , a 2nd year undergraduate pursuing Bachelor of Technology in Computer Science and Engineering
+### Hola, I am Shweta Bhagat! 👋
+
+- 👋 I’m  a 2nd year undergraduate pursuing Bachelor of Technology in Computer Science and Engineering
 - 👀 I’m interested in Problem Solving and Machine Learning
 - 🌱 I’m currently learning Data Structure and Algortihms
 - 💞️ I’m looking to collaborate on Open Source Projects
