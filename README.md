@@ -23,8 +23,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Shweta_Bhagat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shweta_Bhagat_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shweta-bhagat-5a3969200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta-bhagat" height="30" width="40" /></a>
-<a href="https://leetcode.com/shweta_bhagat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shweta_bhagat" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhagatshweta0216/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhagatshweta0216/profile" height="30" width="40" /></a>
+<a href="https://twitter.com/Shweta_Bhagat_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shweta-bhagat-5a3969200/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta-LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/shweta_bhagat/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bhagatshweta0216/profile"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks" height="30" width="40" /></a>
+ <a href="bhagatshweta0216@gmail.com"><img align="center" src= "https://user-images.githubusercontent.com/75883328/172935326-38ec1d46-57dd-4a5b-a044-841dcd4cb90d.png" alt="Gmail" height="35" width="40" /></a>
 </p>
