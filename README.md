@@ -22,6 +22,24 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+|S.No.|Project Name|Tech|Link|
+|--------|----|----|----|
+| 1 | Cars : Data Analysis| OOPs ,Python and Machine Learning  | [click here](https://github.com/Shweta2024/cars-engage-2022) |
+| 2 | Heart Disease Prediction | Python and Machine Learning | [click here](https://github.com/Shweta2024/HEART-DISEASE-PREDICTION-) |
+| 3 | Iris Dataset Classification | Python and Machine Learning  | [click here](https://github.com/Shweta2024/IRIS-DATASET-CLASSIFICATION) |
+| 4 | Marks Predictor |Python and Machine Learning | [click here](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-1_Prediction_using_Supervised_ML.ipynb)|
+| 5 | Fake News Detection | Python | [click here](https://github.com/Shweta2024/FAKE_NEWS_DETECTION)|
+
+
+|S.No.|Open Source Program | Project |  Contribution Link|
+|--------|----|----|----|
+| 1 | GirlScript Summer of Code 2022 | medi-Care | [Breast Cancer Prediction](https://github.com/mohit200008/medi-Care/tree/master/BreastCancerPrediction) |
+| 2 | GirlScript Summer of Code 2022 | LearnCPP |  [9 Pull Requests](https://github.com/Lakhankumawat/LearnCPP/commits?author=Shweta2024) |
+| 3 | Outreachy Contribution Phase 2022 | Mboalab_Outreachy-May-Aug-2022 | [2 Pull Requests](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/May-August-Contributions/Shweta%20Bhagat) |
+
+
+
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
