@@ -1,4 +1,4 @@
-### Hola, I am Shweta Bhagat! 👋
+<h1 align="center">Hello, I'm Shweta Bhagat </h1> 
 
 - 👋 I’m  a 2nd year undergraduate pursuing Bachelor of Technology in Computer Science and Engineering
 - 👀 I’m interested in Problem Solving and Machine Learning
@@ -19,3 +19,13 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta2024&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Beautiful Edit"/>
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shweta2024&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
+
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Shweta_Bhagat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shweta_Bhagat_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shweta-bhagat-5a3969200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta-bhagat" height="30" width="40" /></a>
+<a href="https://leetcode.com/shweta_bhagat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shweta_bhagat" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bhagatshweta0216/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhagatshweta0216/profile" height="30" width="40" /></a>
+</p>
