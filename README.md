@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Structure and Algortihms
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shweta-bhagat-5a3969200/)
-
+ <br><br>
 <!---
 Shweta2024/Shweta2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -15,13 +15,15 @@ You can click the Preview link to take a look at your changes.
 
 
  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Shweta2024&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta2024&langs_count=8&count_private=true&layout=compact&theme=react& hide_border=true&bg_color=0D1117" />
+
+ <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta2024&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
  
  <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta2024&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Beautiful Edit"/>
 </div>
 
-
+ <br><br>
+ 
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
 | 1 | Cars : Data Analysis| OOPs ,Python and Machine Learning  | [click here](https://github.com/Shweta2024/cars-engage-2022) |
@@ -30,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 | 4 | Marks Predictor |Python and Machine Learning | [click here](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-1_Prediction_using_Supervised_ML.ipynb)|
 | 5 | Fake News Detection | Python | [click here](https://github.com/Shweta2024/FAKE_NEWS_DETECTION)|
 
+ <br><br>
 
 |S.No.|Open Source Program | Project |  Contribution Link|
 |--------|----|----|----|
