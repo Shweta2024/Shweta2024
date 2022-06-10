@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
  
 |S.No.|Project Name|Tech|Link|
 |--------|----|----|----|
-| 1 | Cars : Data Analysis| OOPs ,Python and Machine Learning  | [click here](https://github.com/Shweta2024/cars-engage-2022) |
+| 1 | Cars : Data Analysis| OOPs,Python,Flask and Machine Learning  | [click here](https://github.com/Shweta2024/cars-engage-2022) |
 | 2 | Heart Disease Prediction | Python and Machine Learning | [click here](https://github.com/Shweta2024/HEART-DISEASE-PREDICTION-) |
 | 3 | Iris Dataset Classification | Python and Machine Learning  | [click here](https://github.com/Shweta2024/IRIS-DATASET-CLASSIFICATION) |
 | 4 | Marks Predictor |Python and Machine Learning | [click here](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-1_Prediction_using_Supervised_ML.ipynb)|
