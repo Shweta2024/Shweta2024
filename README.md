@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Shweta Bhagat </h1> 
 
-- 👋 I’m  a 2nd year undergraduate pursuing Bachelor of Technology in Computer Science and Engineering
+- 👋 I’m  a 3rd year undergraduate pursuing Bachelor of Technology in Computer Science and Engineering
 - 👀 I’m interested in Problem Solving and Machine Learning
 - 🌱 I’m currently learning Data Structure and Algortihms
 - 💞️ I’m looking to collaborate on Open Source Projects
