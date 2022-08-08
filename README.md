@@ -3,7 +3,7 @@
 - 👋 I’m  a 3rd year undergraduate pursuing Bachelor of Technology in Computer Science and Engineering
 - 👀 I’m interested in Problem Solving and Machine Learning
 - 🌱 I’m currently learning Data Structure and Algortihms
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👩‍💻 I’m looking to collaborate on Open Source Projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shweta-bhagat-5a3969200/)
  <br><br>
 <!---
