@@ -36,9 +36,11 @@ You can click the Preview link to take a look at your changes.
 
 |S.No.|Open Source Program | Project |  Contribution Link|
 |--------|----|----|----|
-| 1 | GirlScript Summer of Code 2022 | medi-Care | [Breast Cancer Prediction](https://github.com/mohit200008/medi-Care/tree/master/BreastCancerPrediction) |
-| 2 | GirlScript Summer of Code 2022 | LearnCPP |  [9 Pull Requests](https://github.com/Lakhankumawat/LearnCPP/commits?author=Shweta2024) |
-| 3 | Outreachy Contribution Phase 2022 | Mboalab_Outreachy-May-Aug-2022 | [2 Pull Requests](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/May-August-Contributions/Shweta%20Bhagat) |
+| 1 | Outreachy Internship - Mboalab | Typhoid Screener(working on it) | [Project link](https://github.com/nataliyah123/TYPHOID_SCREENER/tree/master) |
+| 2 | Outreachy Contribution Phase 2022 | Mboalab_Outreachy-May-Aug-2022 | [2 Pull Requests](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/May-August-Contributions/Shweta%20Bhagat) |
+| 3 | GirlScript Summer of Code 2022 | medi-Care | [Breast Cancer Prediction](https://github.com/mohit200008/medi-Care/tree/master/BreastCancerPrediction) |
+| 4 | GirlScript Summer of Code 2022 | LearnCPP |  [9 Pull Requests](https://github.com/Lakhankumawat/LearnCPP/commits?author=Shweta2024) |
+
 
 
 
