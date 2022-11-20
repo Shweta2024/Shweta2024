@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [![@shweta2024's Holopin board](https://holopin.me/shweta2024)](https://holopin.io/@shweta2024)
 
 
-
+<img src="https://komarev.com/ghpvc/?username=Shweta2024&color=blue" />
  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Shweta2024&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 
  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta2024&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
