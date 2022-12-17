@@ -20,6 +20,9 @@ You can click the Preview link to take a look at your changes.
 
  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta2024&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
  
+ <!--
+ <a href="https://github.com/shweta2024" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shweta2024&langs_count=10&theme=react&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+ -->
  <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta2024&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Beautiful Edit"/>
 </div>
