@@ -1,5 +1,6 @@
+A new journey begins💫
 
-<h1 align="center">Hello, I'm Shweta Bhagat </h1> 
+<h1 align="left">Hello, I'm Shweta Bhagat </h1> 
 
 - 👋 I’m  a 3rd year undergraduate pursuing Bachelor of Technology in Computer Science and Engineering
 - 👀 I’m interested in Problem Solving and Machine Learning
