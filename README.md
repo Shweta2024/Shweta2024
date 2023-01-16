@@ -8,16 +8,7 @@
 
  <br>
  <img src="https://komarev.com/ghpvc/?username=Shweta2024&color=blue" />
- <br>
 
-
-<!--------------------------------------------------------------------CODING PROFILES---------------------------------------------------------------------------->
-
-
-## 💻 CODING PROFILES
-
-<a href="https://leetcode.com/shweta_bhagat/"><img src="https://img.shields.io/badge/leetcode-D14836.svg?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
-<a href="https://auth.geeksforgeeks.org/user/bhagatshweta0216/profile"><img src="https://img.shields.io/badge/geeksforgeeks-%D14836.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></img></a>
 
  <br>
 
@@ -101,6 +92,17 @@
  <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta2024&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Beautiful Edit"/>
 </div>
+
+ <br>
+
+
+<!--------------------------------------------------------------------CODING PROFILES---------------------------------------------------------------------------->
+
+
+## 💻 CODING PROFILES
+
+<a href="https://leetcode.com/shweta_bhagat/"><img src="https://img.shields.io/badge/leetcode-D14836.svg?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
+<a href="https://auth.geeksforgeeks.org/user/bhagatshweta0216/profile"><img src="https://img.shields.io/badge/geeksforgeeks-%D14836.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></img></a>
 
 <br>
 
