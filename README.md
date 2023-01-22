@@ -56,13 +56,28 @@
  
 ## ⭐ PROJECTS
 
-|S.No.|Project Name|Tech|Link|
+### 👩‍💻 MAJOR PROJECTS
+
+|S.No.|Project Name|Technologies Used | Live App | GitHub Link |
+|--------|----|----|----| ---- |
+| 1 | Chat Application | HTML, CSS, JavaScript, jQuery, Socket.io, Nodejs, Express and EJS | [app](https://chatapp-b8jx.onrender.com/) | [link](https://github.com/Shweta2024/Chat-Application) |
+| 2 | Write-On | HTML, CSS, JavaScript, Nodejs, Express, MongoDB and EJS | [app](https://write-on.onrender.com/) | [link](https://github.com/Shweta2024/Write-On) | 
+| 3 | Cars : Data Analysis | OOPs, Python, Flask and Machine Learning  |  | [link](https://github.com/Shweta2024/cars-engage-2022) | 
+| 4 | Secrets-App | oAuth2.0, Express, Nodejs, HTML and CSS | not yet deployed...  | [link](https://github.com/Shweta2024/Secrets-App)|
+| 5 | Weather-App | used APIs, Express, Nodejs, HTML, CSS | not yet deployed... |   |
+
+<br>
+
+### 👩‍💻 MINOR PROJECTS
+
+|S.No.|Project Name|Technologies Used | GitHub Link |
 |--------|----|----|----|
-| 1 | Cars : Data Analysis| OOPs,Python,Flask and Machine Learning  | [click here](https://github.com/Shweta2024/cars-engage-2022) |
-| 2 | Heart Disease Prediction | Python and Machine Learning | [click here](https://github.com/Shweta2024/HEART-DISEASE-PREDICTION-) |
-| 3 | Iris Dataset Classification | Python and Machine Learning  | [click here](https://github.com/Shweta2024/IRIS-DATASET-CLASSIFICATION) |
-| 4 | Marks Predictor |Python and Machine Learning | [click here](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-1_Prediction_using_Supervised_ML.ipynb)|
-| 5 | Fake News Detection | Python | [click here](https://github.com/Shweta2024/FAKE_NEWS_DETECTION)|
+| 1|ToDo List App| HTML, CSS, JavaScript, Nodejs, Express, MongoDB and EJS| [Live App](https://todo-list-j8sm.onrender.com/) and [GitHub link](https://github.com/Shweta2024/ToDo-List)|
+| 2 | Cartoonify | Python and OpenCV | [link](https://github.com/Shweta2024/Cartoonify-Image-Using-OpenCV) |
+| 3 | Heart Disease Prediction | Python and Machine Learning |  [link](https://github.com/Shweta2024/HEART-DISEASE-PREDICTION-) |
+| 4 | Iris Dataset Classification | Python and Machine Learning   | [link](https://github.com/Shweta2024/IRIS-DATASET-CLASSIFICATION) |
+| 5 | Marks Predictor |Python and Machine Learning |  [link](https://github.com/Shweta2024/The-Sparks-Foundation-Tasks/blob/main/Task-1_Prediction_using_Supervised_ML.ipynb) |
+| 6 | Fake News Detection | Python |  [link](https://github.com/Shweta2024/FAKE_NEWS_DETECTION) |
 
  <br>
  
