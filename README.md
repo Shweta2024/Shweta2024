@@ -68,7 +68,7 @@
 
 <br>
 
-### 👩‍💻 MINOR PROJECTS
+### 👩‍💻 MINI PROJECTS
 
 |S.No.|Project Name|Technologies Used | GitHub Link |
 |--------|----|----|----|
@@ -92,7 +92,8 @@
 | 3 | GirlScript Summer of Code 2022 | medi-Care | [Breast Cancer Prediction](https://github.com/mohit200008/medi-Care/tree/master/BreastCancerPrediction) |
 | 4 | GirlScript Summer of Code 2022 | LearnCPP |  [9 Pull Requests](https://github.com/Lakhankumawat/LearnCPP/commits?author=Shweta2024) |
 | 5 | HackClub Rait Summer Of Code 2022 | LeetCode-Grind | [Link](https://drive.google.com/file/d/11rPrsoCkaZ-lr5Jz7e0VOQlS8mB-io_1/view) |
-| 6 | KWOC'2022 | JavaScript-Projects  | I was the Mentor, [Link](https://github.com/Shweta2024/JavaScript-Projects) |
+| 6 | Hacktober Fest 2022 | LeetCode-Grind | |
+| 7 | KWOC'2022 | JavaScript-Projects  | I was the Mentor, [Link](https://github.com/Shweta2024/JavaScript-Projects) |
 
 <br>
 
