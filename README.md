@@ -44,6 +44,8 @@
 
 - Selected for Amazon ML Summer School 2022 out of 25K+ participants. [**Link**](https://drive.google.com/file/d/12CWX9C2Ayrx5zLA0pUbi7JjYp_JWczwY/view)
 
+- Selected for Microsoft Engage 2022 out of 25K+ participants.
+
 - Top 99 Contributor in GirlScript Summer of Code 2022. [**Link**](https://drive.google.com/file/d/1L-vgukRAtF-hl2SRc9lUBDNZep5X5m0y/view)
 
 - Top 9 Contributor in HackClub Rait Summer Of Code'22 .[**Link**](https://drive.google.com/file/d/11rPrsoCkaZ-lr5Jz7e0VOQlS8mB-io_1/view)
