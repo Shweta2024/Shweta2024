@@ -16,6 +16,11 @@
 
 ## 👩‍💻 EXPERIENCES
 
+### ➤ SWE INTERN | MICROSOFT 
+**April 2023 - June 2023** | **Hyderabad** | [**LINK**](https://drive.google.com/file/d/1kc0mprH2rz9eG6bEzOTiPJWZ8cHxkz3R/view) 
+- Developed MSIT Holidays Card on APP Ecosystem, which can be ported to different backends with different schemas by making minimal changes in the configuration.
+- Tech Stack: JavaScript, TypeScript, React, SPFx
+
 ### ➤ OUTREACHY INTERN | Mboalab 
 **May 2022 - August 2022** | **Remote** | [**LINK**](https://drive.google.com/file/d/16sPNQoffTnmXtGpTpw6AOEdSgzKp8_ui/view) | [**GitHub Link**](https://github.com/nataliyah123/TYPHOID_SCREENER/tree/master)
 - Worked as an intern with Mboalab, on the project "Improve diagnostics of typhoid through Open Science: An Artificial Intelligence-based technique".
@@ -23,18 +28,18 @@
 
 ### ➤ MICROSOFT ENGAGE 2022 | Mentee
 **May 2022** | **Remote** | [**LINK**](https://github.com/Shweta2024/cars-engage-2022)
-- Developed a web application that the Automotive Industry could use to harness data to make informed decisions. .
-- Demonstrated the use of Data Analytics in identifying: Customer segments,Most popular car specification combinations (engine type,fuel, mileage, etc).
+- Developed a web application that the Automotive Industry could use to harness data to make informed decisions.
+- Demonstrated the use of Data Analytics in identifying: Customer segments, Most popular car specification combinations (engine type, fuel, mileage, etc).
 
 ### ➤ GIRLSCRIPT SUMMER OF CODE | Contributor
 **March 2022- May 2022** | **Remote** | [**Link**](https://drive.google.com/file/d/1L-vgukRAtF-hl2SRc9lUBDNZep5X5m0y/view)
-- My Rank :- 99/875 
-- Total Accepted Pull Requests : 10
-- Total Points : 220
+- My Rank:- 99/875 
+- Total Accepted Pull Requests: 10
+- Total Points: 220
 
-1. Medi-care : In this project I used the Wisconsin Breast Cancer Dataset and predicted if a person is having Breast Cancer.I did Exploratory Data Analysis followed by splitting the dataset into test and train and then implementing the two models: Logistic Regression and Decision Tree Classifier. 
+1. Medi-care: In this project, I used the Wisconsin Breast Cancer Dataset and predicted if a person is having Breast Cancer.I did Exploratory Data Analysis followed by splitting the dataset into test and train and then implementing the two models: Logistic Regression and Decision Tree Classifier. 
 
-2. LearnCPP : In this project I have added solutions to some of the famous problems of Dynamic Programming and Trees Data Structure.The aim of this project was to provide one step solution for c++ beginners and cp enthusiasts.
+2. LearnCPP: In this project, I have added solutions to some of the famous problems of Dynamic Programming and Trees Data Structure.The aim of this project was to provide one step solution for C++ beginners and cp enthusiasts.
 
  <br>
  
@@ -62,7 +67,7 @@
 
 |S.No.|Project Name|Technologies Used | Live App | GitHub Link |
 |--------|----|----|----| ---- |
-| 1 | Chat Application | HTML, CSS, JavaScript, jQuery, Socket.io, Nodejs, Express and EJS | [app](https://chatapp-b8jx.onrender.com/) | [link](https://github.com/Shweta2024/Chat-Application) |
+| 1 | Chat Application | HTML, CSS, JavaScript, jQuery, Socket.io, Nodejs, Express, and EJS | [app](https://chatapp-b8jx.onrender.com/) | [link](https://github.com/Shweta2024/Chat-Application) |
 | 2 | Write-On | HTML, CSS, JavaScript, Nodejs, Express, MongoDB and EJS | [app](https://write-on.onrender.com/) | [link](https://github.com/Shweta2024/Write-On) | 
 | 3 | Cars : Data Analysis | OOPs, Python, Flask and Machine Learning  |  | [link](https://github.com/Shweta2024/cars-engage-2022) | 
 | 4 | Secrets-App | oAuth2.0, Express, Nodejs, HTML and CSS | not yet deployed...  | [link](https://github.com/Shweta2024/Secrets-App)|
