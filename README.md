@@ -5,6 +5,7 @@
 - I’m looking to collaborate on Open Source Projects.
 - I'm interested in Problem Solving.
 - I'm a MERN Stack Developer.
+- Actively looking for **SDE roles**.
 
  <br>
  <img src="https://komarev.com/ghpvc/?username=Shweta2024&color=blue" />
