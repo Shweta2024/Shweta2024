@@ -1,7 +1,7 @@
 <!--------------------------------------------------------------------------ABOUT-------------------------------------------------------------------------------->
 <h1 align="left">Hello! I'm Shweta Bhagat </h1> 
 
-- I’m  a 3rd year undergraduate pursuing Bachelor of Technology in Computer Science and Engineering.
+- I’m  a 4th year undergraduate pursuing a Bachelor of Technology in Computer Science and Engineering.
 - I’m looking to collaborate on Open Source Projects.
 - I'm interested in Problem Solving.
 - I'm a MERN Stack Developer.
